@@ -1,0 +1,4 @@
+1. Install es7+ to use 'rafce' shortcut 
+2. npm install --legacy-peer-deps
+3. npm install -D tailwindcss postcss autoprefixer
+4. npm tailwindcss init -p
